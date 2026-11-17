@@ -1,0 +1,8 @@
+{
+  "name": "social-coach",
+  "version": "1.2.0",
+  "description": "Short-form video coach for Claude Code: 100-point pre-flight review with measured loudness, dead time, cuts and safe zones; post-mortems; evidence-backed trend scouting; growth playbook, strategy, brand kit + cover generator, stats report and data-driven posting calendar.",
+  "author": { "name": "jakubvavradev" },
+  "license": "MIT",
+  "keywords": ["tiktok", "instagram", "reels", "youtube-shorts", "video-review", "social-media", "trends", "creator"]
+}

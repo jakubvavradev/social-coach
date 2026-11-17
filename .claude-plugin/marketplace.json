@@ -1,0 +1,5 @@
+{
+  "name": "social-coach",
+  "owner": { "name": "jakubvavradev" },
+  "plugins": [{ "name": "social-coach", "source": "./", "description": "Short-form video coach: review, post-mortem, trends, growth." }]
+}
